@@ -1,4 +1,4 @@
-### Hola Holaa 👋
+### Hey, soy Iván 👋
 
 - 🔭 Actualemnte estudiando Software en la poderosísima Salle Bajío.
 - 🌱 Principalmente interesado en el desarrollo web.
