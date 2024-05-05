@@ -1,8 +1,8 @@
-### Hey, soy Iván 👋
+### Hey there, I'm Iván Campos👋
 
-- 🔭 Actualemnte estudiando Software y Sistemas en Universidad la Salle Bajío.
-- 🌱 Principalmente interesado en el desarrollo web.
-- ⚡ Fun fact: Amante de la pasta y los Dachshunds :)
+- 🔭 Currently studying software and systems engineering.
+- 🌱 Mainly interested in web development.
+- ⚡ Fun fact: I love dachshunds and cats :)
 
 - 📫 How to reach me:
    🟢 [https://www.instagram.com/is_campooss/](https://www.linkedin.com/in/iv%C3%A1n-campos-sol%C3%ADs/)
